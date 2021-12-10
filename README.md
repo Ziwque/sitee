@@ -5,7 +5,7 @@
     
   </head>
   <body background="https://i.gifer.com/19Mw.gif">
-    <h1 style="color:White;"align="center">FRANSKBEL JACQUES</h1>
+   
               <hr width='50%'>
       <center>
         <h2 style="color:white;" text-align="left">Meu site HTML</h2> <hr width='15%'>
@@ -18,7 +18,7 @@
     <p style="color:white;" text-align="center"> 
   Meu nome é Franskbel Jacques, e eu gosto de fazer muitas coisas, muitas dela se envolvem principalmente á prática de esportes, e muitas outras atividades como : cozinhar, ler livros, ser benevolente, pedalar, jogar bola (que inclusive eu jogo muito bem), porém prefiro vôlei de praia.
             </p>  
-        <p style="color:white;"text-align="center"> 
+        
   No meu dia-a-dia eu estudo, em um colégio que fica no Cruzeiro. O nome dele é CED 01 do Cruzeiro mais conhecido como "CEMIC". Onde há um curso técnico de informática, onde você aprende, em tese, á mexer com computadores: como programar, solucionar problemas e inclusive a fazer um site como este que você está vendo. Todavia, eu prefiro continuar fazendo os esportes mesmo.
        
           <p style="color:white;"text-align="center"> 
