@@ -5,7 +5,8 @@
     
   </head>
   <body background="https://i.gifer.com/19Mw.gif">
-    <h1 style="color:White;"align="center">FRANSKBEL JACQUES</h1>
+    <h1 style="color:White;"align="center">FRANSKBEL JACQUES
+    </h1>
               <hr width='50%'>
       <center>
         <h2 style="color:white;" text-align="left">Meu site HTML</h2> <hr width='15%'>
